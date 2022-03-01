@@ -1,7 +1,7 @@
 package PromblemSet04;
 import java.util.Random;
 
-public class ComputeMethods {
+public class ComputeMethods5026211097 {
     public double fToC(double degreesF){
         double degreesC = 5.0/9.0 * (degreesF-32.0);
         return degreesC;
