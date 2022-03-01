@@ -2,7 +2,7 @@ package PromblemSet04;
 
 import java.util.Scanner;
 
-public class ProcessName {
+public class ProcessAName {
     public static void main(String[] args){
         Scanner yourName = new Scanner(System.in);
         System.out.println("Type Your Name: ");
