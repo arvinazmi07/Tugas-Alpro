@@ -1,6 +1,6 @@
 package PromblemSet04;
 
-public class Utama {
+public class TestClass5026211097 {
     public static void main(String[] args){
         ComputeMethods WritingMethods = new ComputeMethods();
 
